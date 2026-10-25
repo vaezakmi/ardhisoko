@@ -1,0 +1,33 @@
+[
+  {
+    "id": "comp-001",
+    "slug": "abc-properties",
+    "name": "ABC Properties Ltd",
+    "description": "Leading developer of gated communities across Central Kenya. Building tomorrow's neighbourhoods today.",
+    "phone": "720111222",
+    "countryCode": "+254",
+    "email": "sales@abcproperties.co.ke",
+    "website": "https://abcproperties.co.ke",
+    "verificationStatus": "verified",
+    "socialLinks": {
+      "whatsapp": "https://wa.me/254720111222",
+      "instagram": "https://instagram.com/abcproperties",
+      "linkedin": "https://linkedin.com/company/abcproperties"
+    },
+    "createdAt": "2024-03-15"
+  },
+  {
+    "id": "comp-002",
+    "slug": "savannah-homes",
+    "name": "Savannah Homes Kenya",
+    "description": "Boutique developer specializing in coastal and lakeside residential estates.",
+    "phone": "733444555",
+    "countryCode": "+254",
+    "email": "info@savannahhomes.co.ke",
+    "verificationStatus": "verified",
+    "socialLinks": {
+      "whatsapp": "https://wa.me/254733444555"
+    },
+    "createdAt": "2024-06-20"
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "id": "dev-001",
+    "slug": "green-valley-estate-ruiru",
+    "companyId": "comp-001",
+    "name": "Green Valley Estate",
+    "tagline": "Gated community living in Ruiru",
+    "description": "Green Valley Estate is a 60-acre gated community in Ruiru, Kiambu County, offering ready-to-build residential plots from ¼ acre up to 1 acre. The estate features paved access roads, street lighting, mains water and electricity, a perimeter wall, 24-hour security, and a planned shopping centre and primary school. Ideal for families seeking a quiet, secure environment within 30 minutes of Nairobi CBD.",
+    "county": "Kiambu",
+    "subCounty": "Ruiru",
+    "town": "Ruiru",
+    "locationDescription": "Off Kamiti Road, 2km from Ruiru Town, 30 minutes from Nairobi CBD",
+    "latitude": -1.1456,
+    "longitude": 36.9614,
+    "heroImageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1600",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=1200",
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1200",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1200",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200"
+    ],
+    "sitePlanImageUrl": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1600",
+    "droneImageUrl": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=1600",
+    "amenities": [
+      "Paved access roads",
+      "Street lighting",
+      "Mains water",
+      "3-phase electricity",
+      "Perimeter wall",
+      "24/7 security",
+      "Shopping centre (planned)",
+      "Primary school (planned)"
+    ],
+    "status": "selling",
+    "featured": true,
+    "startingPriceKes": 3500000,
+    "createdAt": "2026-01-10",
+    "updatedAt": "2026-09-01"
+  },
+  {
+    "id": "dev-002",
+    "slug": "sunrise-gardens-kitengela",
+    "companyId": "comp-001",
+    "name": "Sunrise Gardens",
+    "tagline": "Modern living in Kitengela",
+    "description": "A 40-acre master-planned development in Kitengela, Kajiado County. Sunrise Gardens offers 50x100 plots and ¼ acre plots, all with ready title deeds. The development is 5 minutes from Kitengela Town and 25 minutes from Nairobi via Mombasa Road.",
+    "county": "Kajiado",
+    "subCounty": "Kitengela",
+    "town": "Kitengela",
+    "locationDescription": "Off Namanga Road, 5km from Kitengela Town",
+    "latitude": -1.5103,
+    "longitude": 36.9547,
+    "heroImageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200"
+    ],
+    "sitePlanImageUrl": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1600",
+    "amenities": [
+      "Murram access roads",
+      "Water bowser service",
+      "Perimeter fence",
+      "Security post"
+    ],
+    "status": "selling",
+    "featured": true,
+    "startingPriceKes": 1650000,
+    "createdAt": "2025-11-20",
+    "updatedAt": "2026-09-10"
+  },
+  {
+    "id": "dev-003",
+    "slug": "coastal-breeze-diani",
+    "companyId": "comp-002",
+    "name": "Coastal Breeze Villas",
+    "tagline": "Beachfront living on the South Coast",
+    "description": "An exclusive boutique development of 24 villas on 8 acres of prime beachfront land in Diani, Kwale County. Each villa sits on a ⅓ acre plot with direct beach access. Architecture by award-winning coastal firm.",
+    "county": "Kwale",
+    "subCounty": "Msambweni",
+    "town": "Diani",
+    "locationDescription": "Direct beachfront, 500m from Diani Beach Road",
+    "latitude": -4.2811,
+    "longitude": 39.5968,
+    "heroImageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1600",
+    "galleryImages": [
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=1200",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1200"
+    ],
+    "amenities": [
+      "Direct beach access",
+      "Swimming pool",
+      "Restaurant & bar",
+      "Backup generator",
+      "Borehole water",
+      "Gated community"
+    ],
+    "status": "selling",
+    "featured": true,
+    "startingPriceKes": 45000000,
+    "createdAt": "2026-02-15",
+    "updatedAt": "2026-09-12"
+  }
+]

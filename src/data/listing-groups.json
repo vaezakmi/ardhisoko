@@ -1,0 +1,56 @@
+[
+  {
+    "id": "grp-001",
+    "developmentId": "dev-001",
+    "name": "¼ Acre Plots",
+    "acreage": 0.25,
+    "propertyType": "residential",
+    "defaultPriceKes": 3500000,
+    "description": "Standard quarter-acre residential plots, ready for building. All with title deeds."
+  },
+  {
+    "id": "grp-002",
+    "developmentId": "dev-001",
+    "name": "½ Acre Plots",
+    "acreage": 0.5,
+    "propertyType": "residential",
+    "defaultPriceKes": 6200000,
+    "description": "Spacious half-acre plots ideal for family homes with gardens."
+  },
+  {
+    "id": "grp-003",
+    "developmentId": "dev-001",
+    "name": "1 Acre Plots",
+    "acreage": 1,
+    "propertyType": "residential",
+    "defaultPriceKes": 11500000,
+    "description": "Premium one-acre plots on the estate's highest ground with Mt. Kenya views."
+  },
+  {
+    "id": "grp-004",
+    "developmentId": "dev-002",
+    "name": "50x100 Plots",
+    "acreage": 0.125,
+    "propertyType": "residential",
+    "defaultPriceKes": 1650000,
+    "description": "Standard 50x100 residential plots, ideal for starter homes."
+  },
+  {
+    "id": "grp-005",
+    "developmentId": "dev-002",
+    "name": "¼ Acre Plots",
+    "acreage": 0.25,
+    "propertyType": "residential",
+    "defaultPriceKes": 2900000,
+    "description": "Quarter-acre plots with wide frontage."
+  },
+  {
+    "id": "grp-006",
+    "developmentId": "dev-003",
+    "name": "⅓ Acre Villa Plots",
+    "acreage": 0.333,
+    "propertyType": "residential",
+    "defaultPriceKes": 45000000,
+    "description": "Beachfront villa plots with direct ocean access."
+  }
+]

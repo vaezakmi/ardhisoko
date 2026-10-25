@@ -1,0 +1,20 @@
+[
+  { "id": "inv-001", "listingGroupId": "grp-001", "plotRef": "GV-001", "acreage": 0.25, "priceKes": 3500000, "status": "available" },
+  { "id": "inv-002", "listingGroupId": "grp-001", "plotRef": "GV-002", "acreage": 0.25, "priceKes": 3500000, "status": "available" },
+  { "id": "inv-003", "listingGroupId": "grp-001", "plotRef": "GV-003", "acreage": 0.25, "priceKes": 3650000, "status": "reserved" },
+  { "id": "inv-004", "listingGroupId": "grp-001", "plotRef": "GV-004", "acreage": 0.25, "priceKes": 3500000, "status": "available" },
+  { "id": "inv-005", "listingGroupId": "grp-001", "plotRef": "GV-005", "acreage": 0.25, "priceKes": 3500000, "status": "sold" },
+  { "id": "inv-006", "listingGroupId": "grp-001", "plotRef": "GV-006", "acreage": 0.25, "priceKes": 3550000, "status": "available" },
+  { "id": "inv-007", "listingGroupId": "grp-002", "plotRef": "GV-050", "acreage": 0.5, "priceKes": 6200000, "status": "available" },
+  { "id": "inv-008", "listingGroupId": "grp-002", "plotRef": "GV-051", "acreage": 0.5, "priceKes": 6200000, "status": "available" },
+  { "id": "inv-009", "listingGroupId": "grp-002", "plotRef": "GV-052", "acreage": 0.5, "priceKes": 6400000, "status": "reserved" },
+  { "id": "inv-010", "listingGroupId": "grp-003", "plotRef": "GV-100", "acreage": 1, "priceKes": 11500000, "status": "available" },
+  { "id": "inv-011", "listingGroupId": "grp-003", "plotRef": "GV-101", "acreage": 1, "priceKes": 11500000, "status": "available" },
+  { "id": "inv-012", "listingGroupId": "grp-004", "plotRef": "SG-001", "acreage": 0.125, "priceKes": 1650000, "status": "available" },
+  { "id": "inv-013", "listingGroupId": "grp-004", "plotRef": "SG-002", "acreage": 0.125, "priceKes": 1650000, "status": "available" },
+  { "id": "inv-014", "listingGroupId": "grp-004", "plotRef": "SG-003", "acreage": 0.125, "priceKes": 1700000, "status": "sold" },
+  { "id": "inv-015", "listingGroupId": "grp-005", "plotRef": "SG-100", "acreage": 0.25, "priceKes": 2900000, "status": "available" },
+  { "id": "inv-016", "listingGroupId": "grp-006", "plotRef": "CB-001", "acreage": 0.333, "priceKes": 45000000, "status": "available" },
+  { "id": "inv-017", "listingGroupId": "grp-006", "plotRef": "CB-002", "acreage": 0.333, "priceKes": 45000000, "status": "reserved" },
+  { "id": "inv-018", "listingGroupId": "grp-006", "plotRef": "CB-003", "acreage": 0.333, "priceKes": 46500000, "status": "available" }
+]

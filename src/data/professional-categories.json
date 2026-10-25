@@ -1,0 +1,112 @@
+[
+  {
+    "id": "land-surveyor",
+    "slug": "land-surveyors",
+    "name": "Land Surveyor",
+    "singularName": "Land Surveyor",
+    "pluralName": "Land Surveyors",
+    "description": "Measure, map and define land boundaries. Essential before any purchase or subdivision.",
+    "icon": "Ruler",
+    "common": true
+  },
+  {
+    "id": "property-valuer",
+    "slug": "property-valuers",
+    "name": "Property Valuer",
+    "singularName": "Property Valuer",
+    "pluralName": "Property Valuers",
+    "description": "Independent valuation for bank financing, sale, and legal matters.",
+    "icon": "Calculator",
+    "common": true
+  },
+  {
+    "id": "property-advocate",
+    "slug": "property-advocates",
+    "name": "Land / Property Advocate",
+    "singularName": "Property Advocate",
+    "pluralName": "Property Advocates",
+    "description": "Legal support for title searches, transfers, and conveyancing.",
+    "icon": "Scale",
+    "common": true
+  },
+  {
+    "id": "architect",
+    "slug": "architects",
+    "name": "Architect",
+    "singularName": "Architect",
+    "pluralName": "Architects",
+    "description": "Design buildings and developments that fit your land and budget.",
+    "icon": "PencilRuler",
+    "common": true
+  },
+  {
+    "id": "civil-engineer",
+    "slug": "civil-engineers",
+    "name": "Civil Engineer",
+    "singularName": "Civil Engineer",
+    "pluralName": "Civil Engineers",
+    "description": "Roads, drainage, foundations, and structural design.",
+    "icon": "HardHat",
+    "common": true
+  },
+  {
+    "id": "geotechnical-engineer",
+    "slug": "geotechnical-engineers",
+    "name": "Geotechnical Engineer",
+    "singularName": "Geotechnical Engineer",
+    "pluralName": "Geotechnical Engineers",
+    "description": "Soil testing, ground investigation, and foundation recommendations.",
+    "icon": "Mountain",
+    "common": false
+  },
+  {
+    "id": "quantity-surveyor",
+    "slug": "quantity-surveyors",
+    "name": "Quantity Surveyor",
+    "singularName": "Quantity Surveyor",
+    "pluralName": "Quantity Surveyors",
+    "description": "Cost estimating, budgeting, and contract management for construction.",
+    "icon": "Calculator",
+    "common": true
+  },
+  {
+    "id": "planner",
+    "slug": "planners",
+    "name": "Physical / Urban Planner",
+    "singularName": "Planner",
+    "pluralName": "Planners",
+    "description": "Land use planning, subdivision approvals, and change of user applications.",
+    "icon": "Map",
+    "common": false
+  },
+  {
+    "id": "contractor",
+    "slug": "contractors",
+    "name": "Contractor",
+    "singularName": "Contractor",
+    "pluralName": "Contractors",
+    "description": "Construction and site works. From foundations to completion.",
+    "icon": "Hammer",
+    "common": true
+  },
+  {
+    "id": "environmental",
+    "slug": "environmental-professionals",
+    "name": "Environmental Professional",
+    "singularName": "Environmental Professional",
+    "pluralName": "Environmental Professionals",
+    "description": "EIA reports, environmental audits, and sustainability advisory.",
+    "icon": "Leaf",
+    "common": false
+  },
+  {
+    "id": "other",
+    "slug": "other-professionals",
+    "name": "Other — specify",
+    "singularName": "Professional",
+    "pluralName": "Other Professionals",
+    "description": "Any other land or property development specialist.",
+    "icon": "Briefcase",
+    "common": false
+  }
+]
